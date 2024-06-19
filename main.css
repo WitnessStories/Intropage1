@@ -238,17 +238,17 @@ blockquote span {
 
 /*social media icons design also can find in index.html*/
 .social-icons {
-    width: 30%;
-    margin: 0px auto 0 auto;
+    width: 100%;
+    margin: 30px auto 0 auto;
     padding-bottom: 15px;
 }
 
 .social-icons ul a {
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     display: block;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -262,7 +262,7 @@ blockquote span {
 .social-icons ul {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
 }
 
 .social-icons ul a:hover {
