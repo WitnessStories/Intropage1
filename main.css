@@ -178,7 +178,7 @@ p {
 }
 
 .about {
-    margin-top: -40px;
+    margin-top: 50px;
 }
 
 .about-content img {
@@ -210,7 +210,7 @@ p {
     font-size: 20px;
     font-weight: 100;
     background: #474b4f;
-    width: 500px;
+    width: 300px;
     margin: 20px auto;
     text-align: center;
 }
@@ -238,17 +238,17 @@ blockquote span {
 
 /*social media icons design also can find in index.html*/
 .social-icons {
-    width: 70%;
+    width: 30%;
     margin: 0px auto 0 auto;
     padding-bottom: 15px;
 }
 
 .social-icons ul a {
     color: #fff;
-    font-size: 25px;
+    font-size: 15px;
     display: block;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -262,7 +262,7 @@ blockquote span {
 .social-icons ul {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .social-icons ul a:hover {
